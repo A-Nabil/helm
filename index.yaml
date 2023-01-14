@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-14T22:44:24.8377783+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 8083654dba6b0d3b44c49eef6a09fa7c0c1c1bcb5f02cb270b84124ff9ab8fef
+    name: service
+    type: application
+    urls:
+    - https://github.com/A-Nabil/helm/service-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-14T22:44:24.8360829+01:00"
